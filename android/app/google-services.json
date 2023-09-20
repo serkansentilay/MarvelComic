@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951840474209",
+    "project_id": "marvelcomic-778b9",
+    "storage_bucket": "marvelcomic-778b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951840474209:android:b96684716a034f1d6a1620",
+        "android_client_info": {
+          "package_name": "com.marvelcomic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951840474209-mc1bh6l797g90j8ol71br5uq33nsq50i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marvelcomic",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "951840474209-0hdjqcn8l9tisasictpnb7ir2cafp29d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTNuJ2AyUipTiiEqHK8S45xJLcFBI_LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951840474209-0hdjqcn8l9tisasictpnb7ir2cafp29d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
